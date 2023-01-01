@@ -1,6 +1,6 @@
 # Hi, I'm Sachchit
 
-I'm a **junior CSE student** at the **University of Michigan, Ann Arbor**! As a builder and learner, I love the challenge of mastering a new concept and applying it to build something awesome! My GitHub page (and the projects I share here) is my way of sharing that learning process with the wider tech community. Feel free to follow along!
+I'm a **junior CSE student** at the **University of Michigan, Ann Arbor**! As a learner and builder, I love the challenge of mastering a new concept and applying it to build something awesome. My GitHub page and projects are my way of sharing that process with the tech community.
 
 <div align=center>
     <img src="https://skillicons.dev/icons?i=cpp,py,ts,bash"/> 
