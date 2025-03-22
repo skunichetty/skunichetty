@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <p>Software engineer and data scientist working in quantitative finance.</p>
+    <p>Researcher and Data Engineer working in quantitative finance.</p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=skunichetty&layout=compact&exclude_repo=climate-hack,cfb-f21&theme=radical"/>
 </div>
 
